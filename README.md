@@ -1,6 +1,8 @@
 # ground_glass_card
+![](document/card_image_example.jpg)
+在即时设计上看见了这样的一个信用卡毛玻璃渐变风格设计  
+决定把这个风格的设计用flutter实现一下并且加一些新拟物风格的阴影设计
 
-A new Flutter project.
 
 ## Getting Started
 
